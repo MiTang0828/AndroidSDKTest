@@ -1,0 +1,7 @@
+#Wed May 12 16:20:53 PDT 2021
+base.1=/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+path.1=7/classes.dex
+base.0=/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

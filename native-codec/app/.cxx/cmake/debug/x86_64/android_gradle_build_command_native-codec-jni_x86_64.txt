@@ -1,0 +1,7 @@
+Executable : /Users/mtangam/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/x86_64
+native-codec-jni
+jvmArgs : 
+

@@ -1,0 +1,3 @@
+/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-codec-jni.dir

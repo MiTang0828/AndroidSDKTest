@@ -1,0 +1,1 @@
+/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/armeabi-v7a

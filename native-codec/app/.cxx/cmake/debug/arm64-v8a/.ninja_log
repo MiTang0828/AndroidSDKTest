@@ -1,0 +1,11 @@
+# ninja log v5
+0	106	1620852911	CMakeFiles/native-codec-jni.dir/looper.cpp.o	61abbf6161793543
+1	130	1620852912	CMakeFiles/native-codec-jni.dir/native-codec-jni.cpp.o	adc042ba7db5fc86
+131	236	1620852912	/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-codec-jni.so	3a0a292e765cf5b8
+1	39	1620860515	CMakeFiles/native-codec-jni.dir/OpusEncoder.cpp.o	d0542544e8e4ab30
+39	101	1620860515	/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-codec-jni.so	e4b639b793fbbe3a
+0	57	1620861653	CMakeFiles/native-codec-jni.dir/OpusDecoder.cpp.o	fb84be3364c248b2
+57	122	1620861653	/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-codec-jni.so	6ecd6106fe5595c0
+0	50	1620861736	CMakeFiles/native-codec-jni.dir/OpusEncoder.cpp.o	f006442605a9ccf3
+0	67	1620861736	CMakeFiles/native-codec-jni.dir/OpusDecoder.cpp.o	bf1f08df9a4eda93
+68	112	1620861736	/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-codec-jni.so	6ecd6106fe5595c0

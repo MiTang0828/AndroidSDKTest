@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mtangam/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mtangam/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-codec-jni::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "native-codec-jni",
+      "output": "/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/x86_64/libnative-codec-jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/mtangam/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/mtangam/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,22 @@
+Executable : /Users/mtangam/Library/Android/sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/src/main/cpp
+-DCMAKE_FIND_ROOT_PATH=/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/prefab/armeabi-v7a/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/Users/mtangam/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/mtangam/Library/Android/sdk/ndk/21.2.6472646
+-DANDROID_PLATFORM=android-21
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_ANDROID_NDK=/Users/mtangam/Library/Android/sdk/ndk/21.2.6472646
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=/Users/mtangam/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_STL=c++_static
+-B/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/armeabi-v7a
+-GNinja
+jvmArgs : 
+

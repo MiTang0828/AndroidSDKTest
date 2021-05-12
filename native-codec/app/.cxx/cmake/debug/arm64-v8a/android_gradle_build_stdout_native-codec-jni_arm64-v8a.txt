@@ -1,0 +1,4 @@
+ninja: Entering directory `/Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/.cxx/cmake/debug/arm64-v8a'
+[1/3] Building CXX object CMakeFiles/native-codec-jni.dir/OpusEncoder.cpp.o
+[2/3] Building CXX object CMakeFiles/native-codec-jni.dir/OpusDecoder.cpp.o
+[3/3] Linking CXX shared library /Users/mtangam/AndroidStudioProjects/ndk-samples/native-codec/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-codec-jni.so

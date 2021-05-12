@@ -1,0 +1,17 @@
+com/example/nativecodec/MyGLSurfaceView.java
+ com.example.nativecodec.MyGLSurfaceView
+ com.example.nativecodec.MyRenderer
+com/example/nativecodec/NativeCodec.java
+ com.example.nativecodec.NativeCodec
+ com.example.nativecodec.NativeCodec$1
+ com.example.nativecodec.NativeCodec$2
+ com.example.nativecodec.NativeCodec$3
+ com.example.nativecodec.NativeCodec$4
+ com.example.nativecodec.NativeCodec$5
+ com.example.nativecodec.NativeCodec$6
+ com.example.nativecodec.NativeCodec$7
+ com.example.nativecodec.NativeCodec$GLViewVideoSink
+ com.example.nativecodec.NativeCodec$SurfaceHolderVideoSink
+ com.example.nativecodec.NativeCodec$VideoSink
+com/example/nativecodec/BuildConfig.java
+ com.example.nativecodec.BuildConfig
